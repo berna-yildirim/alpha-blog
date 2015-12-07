@@ -7,10 +7,5 @@ class PagesController < ApplicationController
 
   end
 
-  def show
-
-
-  end
-
 end
 
